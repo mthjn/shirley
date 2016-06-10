@@ -45,10 +45,3 @@ Shirley::Observer.new(hook).periodiccheck
 ## Required gems
 
 Should be all standard in modern Rubies:
-
-```
-  require "net/http"
-  require "uri"
-  require "json"
-  require "net/https"
-```
