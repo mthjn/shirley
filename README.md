@@ -15,8 +15,11 @@ It appends a fortune cookie to the daily reports.
 ## Setting up Slack
 
 1/ Log in to your Slack from browser (or create new Slack)
+
 2/ In api.slack.com should be an option Incoming Hooks.. [https://api.slack.com/incoming-webhooks](https://api.slack.com/incoming-webhooks)
-3/ Create a new incoming hook#
+
+3/ Create a new incoming hook
+
 4/ Copy the URI it gives you. This is what you pass as the only variable to both the Observer and the Slackpush.
 
 ## Example
