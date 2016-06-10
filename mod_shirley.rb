@@ -1,9 +1,6 @@
 module Shirley
 
-  require "net/http"
-  require "uri"
   require "json"
-  require "net/https"
 
   class Slackpush
     def initialize slackhook
